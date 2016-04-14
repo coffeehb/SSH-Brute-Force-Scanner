@@ -1,0 +1,10 @@
+#Scan from uid0 servers:
+#./scan_root CLASS
+#./scan_root 88
+
+#Mass scan from "users" servers:
+#./mass CLASS
+#./mass 88 
+#Class B scan from "users" servers:
+#./scan_user CLASS.CLASS
+#./scan_user 88.56
